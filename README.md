@@ -11,3 +11,4 @@ Pagination is provided at the bottom of page to navigate through all records. Th
 Both, Pagination and Search bar are implemented end to end.
 user's password is first hashed and then it is stored in the database, so it is known to him/her only.
 All the important routes such as get all users, edit user and delete user are protected using JWT authentication. Only signed in users can access these routes.
+The data for 50 users is provided in backend/data/users.json
