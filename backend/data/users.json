@@ -1,0 +1,501 @@
+[{
+  "_id": {
+    "$oid": "621dddf1a2f9d14b3c837641"
+  },
+  "userName": "gayatri",
+  "email": "gayatri@xyz.com",
+  "password": "$2a$10$1iXy.q8gnAAkstRM5nZ43ul6jBeLKbHAPEayGqu3TXF83dgAjET4y",
+  "gender": "female",
+  "generalDescription": "Loves to watch latest ott series and movies..",
+  "userInterest": "Movies"
+},{
+  "_id": {
+    "$oid": "621df229a2f9d14b3c83771c"
+  },
+  "userName": "sanketb",
+  "email": "sanket@xyz.com",
+  "password": "$2a$10$k7EWuXyq260ms/zCuL7TjOceHp4S0HV48UXwUAp9QmN.H8kthtyeG",
+  "gender": "male",
+  "generalDescription": "Enthusiastic about everything..",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621df269a2f9d14b3c83771f"
+  },
+  "userName": "rakhib",
+  "email": "rakhi@xyz.com",
+  "password": "$2a$10$cuUjyNvS3EUWxOZX4CQQ9uDIQdNfpbF2.Bsc9JZD.ZxIk39ZGjp0G",
+  "gender": "male",
+  "generalDescription": "Rakhi..",
+  "userInterest": "Movies"
+},{
+  "_id": {
+    "$oid": "621df294a2f9d14b3c837722"
+  },
+  "userName": "rekhasb",
+  "email": "rekhasb@xyz.com",
+  "password": "$2a$10$3tqKHpmgZlu5Q.ytTpWZvuJKfrsZSgZivWn3dVPEWvPAPvnW/YJMK",
+  "gender": "female",
+  "generalDescription": "gen descp",
+  "userInterest": "News"
+},{
+  "_id": {
+    "$oid": "621df350a2f9d14b3c837725"
+  },
+  "userName": "nikhilt",
+  "email": "nikhilt@xyz.com",
+  "password": "$2a$10$VuZI.qX/2zDq5ljxGPlOE.GzoZCqaTVyWWpQg.fra26g6cNq7vsxO",
+  "gender": "male",
+  "generalDescription": "sports person",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621df388a2f9d14b3c837728"
+  },
+  "userName": "pushkara",
+  "email": "pushkar@xyz.com",
+  "password": "$2a$10$bIpeDC/tFtQbzmIBtQyImORF9JP5EMSCZWobBGlrQiMkJ/mudR9oO",
+  "gender": "male",
+  "generalDescription": "Computer addict",
+  "userInterest": "News"
+},{
+  "_id": {
+    "$oid": "621df40ba2f9d14b3c83772b"
+  },
+  "userName": "akshayC",
+  "email": "akshay@xyz.com",
+  "password": "$2a$10$uEnckhusH1xB/.DbZcv8XuPk377iGg.Srs7hsAW4CZPGpFjH3.hGq",
+  "gender": "male",
+  "generalDescription": "Procrastination is my hobby.",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621df445a2f9d14b3c83772e"
+  },
+  "userName": "mithileshD",
+  "email": "mithileshdesai@gmail.com",
+  "password": "$2a$10$bmPUy0gqgbZfkzdwnx67sue3PrqzIvHdqkqSZYSRnscN7mIkCOiEu",
+  "gender": "male",
+  "generalDescription": "foody",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621df47ea2f9d14b3c837732"
+  },
+  "userName": "manuK",
+  "email": "manuK@gmail.com",
+  "password": "$2a$10$lBcJmOCH2chCdwS/HurL2OVuxyFt.KtJG/Sk3bwp9QfKRSHtnds1a",
+  "gender": "male",
+  "generalDescription": "",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621df4d0a2f9d14b3c837739"
+  },
+  "userName": "piyushK",
+  "email": "piyushk@xyz.com",
+  "password": "$2a$10$OVk8D5AzlzeDdiHx37i82OPdid1x.X1d/L8o3YHkcjNV/0lUWo/Zq",
+  "gender": "male",
+  "generalDescription": "Foodyyyy",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621df515a2f9d14b3c83773c"
+  },
+  "userName": "mayuD",
+  "email": "mayu@xyz.com",
+  "password": "$2a$10$Out7vxY6dz7O5TjTkp7pjeIv6BNCSxiM2d2jhapQROonc0bFVG7.u",
+  "gender": "female",
+  "generalDescription": "extreme foody",
+  "userInterest": "Food"
+},{
+  "_id": {
+    "$oid": "621df542a2f9d14b3c83773f"
+  },
+  "userName": "nishuD",
+  "email": "nishud@xyz.com",
+  "password": "$2a$10$hDodWLuCFiS/1ucUWERDsuPPwN.LP5X5MxkhVpl5ifeCFYTwsTnia",
+  "gender": "female",
+  "generalDescription": "moodyyy",
+  "userInterest": "Movies"
+},{
+  "_id": {
+    "$oid": "621df565a2f9d14b3c837742"
+  },
+  "userName": "nishadT",
+  "email": "nishad@xyz.com",
+  "password": "$2a$10$4Ipie9qTyNQRBPPUgu5yc.cGqjGlgYzI8SAa7QMRbfnPZ8QomNEL6",
+  "gender": "male",
+  "generalDescription": "Mad about tennis...",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621df595a2f9d14b3c837745"
+  },
+  "userName": "sakshiS",
+  "email": "sakshi@xyz.com",
+  "password": "$2a$10$P3aJwACzBEtE995asLETGe8bmiaL/vqFot2sLvhOzQQhHMJDJlW0G",
+  "gender": "female",
+  "generalDescription": "Loves travelling",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621df5fda2f9d14b3c837748"
+  },
+  "userName": "rudraP",
+  "email": "rudra@xyz.com",
+  "password": "$2a$10$suJYaocW.pfSwpl8lGb/0Ob/KRFPQSaYoCmZoFqqn.75s6.wX1A2K",
+  "gender": "male",
+  "generalDescription": "Mad about myself",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621df623a2f9d14b3c83774b"
+  },
+  "userName": "pravinM",
+  "email": "pravin@xyz.com",
+  "password": "$2a$10$fIBaVuPsQlS411X.617oG.g6.8jWs/MT46rn4FJCdAHfIoazf0HHG",
+  "gender": "male",
+  "generalDescription": "Love Outings..",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621df881a2f9d14b3c837780"
+  },
+  "userName": "akashD",
+  "email": "akash@xyz.com",
+  "password": "$2a$10$7/gH/kBFXWBuztNfu/DPTuGr6kyGN5Nf3.BZX2wrkKI/umMPYStrq",
+  "gender": "male",
+  "generalDescription": "Sports person",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621df8b7a2f9d14b3c837783"
+  },
+  "userName": "dhannoB",
+  "email": "dhanno@xyz.com",
+  "password": "$2a$10$O5DRPFLKE3I.lMJPIlRJkO9broIWLWG9beuCYrB4UFaKrqR3KJTAm",
+  "gender": "female",
+  "generalDescription": "Mad about food",
+  "userInterest": "Food"
+},{
+  "_id": {
+    "$oid": "621df978a2f9d14b3c837786"
+  },
+  "userName": "piyushJ",
+  "email": "piyushj@xyz.com",
+  "password": "$2a$10$n5kInLrYBhfTn0JDwuvKeuCDdHjmTc5rG9uh2YbTrScYHroqyLbvW",
+  "gender": "male",
+  "generalDescription": "Introvert",
+  "userInterest": "Technology"
+},{
+  "_id": {
+    "$oid": "621df9c8a2f9d14b3c837789"
+  },
+  "userName": "chetanH",
+  "email": "chetan@xyz.com",
+  "password": "$2a$10$GIW.46TDXqTpuQrNrZvD3O0QFe4YiCUa/H1L1bXrqVWnr4ICvaPyy",
+  "gender": "male",
+  "generalDescription": "Hard Core gamer",
+  "userInterest": "Gaming"
+},{
+  "_id": {
+    "$oid": "621df9f6a2f9d14b3c83778c"
+  },
+  "userName": "spandanD",
+  "email": "spandan@xyz.com",
+  "password": "$2a$10$JkraazL8kaGZ8MCFd6T.0OwDETgvpOZKvnPb9yp4A56mOEfWMjQDK",
+  "gender": "male",
+  "generalDescription": "Tech freak",
+  "userInterest": "Technology"
+},{
+  "_id": {
+    "$oid": "621dfa40a2f9d14b3c83778f"
+  },
+  "userName": "pratikC",
+  "email": "pratik@xyz.com",
+  "password": "$2a$10$b2USZzv43wuee60CoQnvqexwPEz2YyOIya40MYeme49tuva.zwTBy",
+  "gender": "male",
+  "generalDescription": "Bookworm",
+  "userInterest": "Books"
+},{
+  "_id": {
+    "$oid": "621dfa71a2f9d14b3c837792"
+  },
+  "userName": "darpanS",
+  "email": "darpan@xyz.com",
+  "password": "$2a$10$C/jTGGeSQ0z0I1U2Ij/lEummRKX06VkrKkn7XsAO6x4R/vQE///cS",
+  "gender": "male",
+  "generalDescription": "Loves timepass",
+  "userInterest": "Travel"
+},{
+  "_id": {
+    "$oid": "621dfa9ba2f9d14b3c837795"
+  },
+  "userName": "vivekG",
+  "email": "vivek@xyz.com",
+  "password": "$2a$10$4xGdh/xiY57ZVVHQz.qyX.cjHl/lSuilRctl1zFGRLrCuSHHReKGS",
+  "gender": "male",
+  "generalDescription": "Loves fighting",
+  "userInterest": "Gaming"
+},{
+  "_id": {
+    "$oid": "621dfb15a2f9d14b3c837798"
+  },
+  "userName": "adityaJ",
+  "email": "adi@xyz.com",
+  "password": "$2a$10$fEcf.4VYmeMq66mtdddDluZDFcZDZx/48CGCuRBNe9tgQ2PW8T6nm",
+  "gender": "male",
+  "generalDescription": "loves travelling",
+  "userInterest": "Travel"
+},{
+  "_id": {
+    "$oid": "621dfb3ca2f9d14b3c83779b"
+  },
+  "userName": "swapnilT",
+  "email": "swapnil@xyz.com",
+  "password": "$2a$10$/TJ4DmcviJ6LQQFXCObTSOx8PS9e18KoAB0SJtK7F650XhGYjKaqy",
+  "gender": "male",
+  "generalDescription": "Loves food ",
+  "userInterest": "Food"
+},{
+  "_id": {
+    "$oid": "621dfbaea2f9d14b3c83779e"
+  },
+  "userName": "akshayV",
+  "email": "akshayV@xyz.com",
+  "password": "$2a$10$0XfXVinsJNLoTTgbI49xfeCt8sooxoITEBtOpNikMMZK3uVDULrNG",
+  "gender": "male",
+  "generalDescription": "Sports lover",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621e4a52f9e1b874b36899a1"
+  },
+  "userName": "seemaB",
+  "email": "seema@xyz.com",
+  "password": "$2a$10$WKKg2EmcJzTtlTdCyADtqeaAa5px4hFwtOH.fe92J1kMSRap/yMRy",
+  "gender": "female",
+  "generalDescription": "Gym Lover",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621e4abcf9e1b874b36899a4"
+  },
+  "userName": "sonaliS",
+  "email": "sonali@xyz.com",
+  "password": "$2a$10$bLWeEj/.CCfCvjDsRzgxseVxbJ.T01sIjvDHT3qod397Lr/ErDQ9i",
+  "gender": "female",
+  "generalDescription": "fitness freak",
+  "userInterest": "Health and Fitness"
+},{
+  "_id": {
+    "$oid": "621e4aebf9e1b874b36899a7"
+  },
+  "userName": "kshitijK",
+  "email": "kshitij@gmail.com",
+  "password": "$2a$10$fGy/GtfMDgjoGc0.TYMUHOkukmEkhw6vo3UKPF4H.Vp1gmcM8I54C",
+  "gender": "male",
+  "generalDescription": "Music lover",
+  "userInterest": "Movies"
+},{
+  "_id": {
+    "$oid": "621e4b2df9e1b874b36899aa"
+  },
+  "userName": "shubhamS",
+  "email": "shubhamS@xyz.com",
+  "password": "$2a$10$8aBps9ANYIHOsK/44Q3lEeDoECD8Xvk.Qgqgk43fBK0w4PVDQjzqq",
+  "gender": "male",
+  "generalDescription": "Crazy for travelling",
+  "userInterest": "Travel"
+},{
+  "_id": {
+    "$oid": "621e4b58f9e1b874b36899ad"
+  },
+  "userName": "yoginiB",
+  "email": "yogini@xyz.com",
+  "password": "$2a$10$XAxTQwefkbKVg86V4l6kT.MEd6mFU/2E3LBzF24vJzUWptzLh8jwi",
+  "gender": "female",
+  "generalDescription": "gen descp",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621e4b8ff9e1b874b36899b0"
+  },
+  "userName": "pradipB",
+  "email": "pradip@xyz.com",
+  "password": "$2a$10$Y5PYdbDp2YdP7tMygzu2L.xeDesAtY3MDX5FOousPsywtZPavqmlm",
+  "gender": "male",
+  "generalDescription": "Hard worker",
+  "userInterest": "News"
+},{
+  "_id": {
+    "$oid": "621e4be0f9e1b874b36899b3"
+  },
+  "userName": "yoginiT",
+  "email": "yoginit@xyz.com",
+  "password": "$2a$10$jH92wJ6ZWAcF945RpIbB/Ocato0wpVJP6/MteHe63ObKOxlKN6PH6",
+  "gender": "female",
+  "generalDescription": "Food is Life..",
+  "userInterest": "Food"
+},{
+  "_id": {
+    "$oid": "621e4c0ef9e1b874b36899b6"
+  },
+  "userName": "mushaidR",
+  "email": "mushaid@xyz.com",
+  "password": "$2a$10$o2bfwKRFdM4tOLZLDRVIDe/.MZPf6yERBnCf/PGTU/p.lLLNXubO6",
+  "gender": "male",
+  "generalDescription": "Friends are life...",
+  "userInterest": "Sports"
+},{
+  "_id": {
+    "$oid": "621e4c54f9e1b874b36899b9"
+  },
+  "userName": "aryanR",
+  "email": "aryan@xyz.com",
+  "password": "$2a$10$aag7eMZWXbqxlzr5iQMfH.VSOY2o.Y7nzvzKoAcrPfDBInrk0wVT2",
+  "gender": "male",
+  "generalDescription": "Health is wealth..",
+  "userInterest": "Health and Fitness"
+},{
+  "_id": {
+    "$oid": "621e4c89f9e1b874b36899bc"
+  },
+  "userName": "omkathalkar",
+  "email": "omk@xyz.com",
+  "password": "$2a$10$5rJOgBOD.2H2sMxmmzNOMOQfK5HaiYiDUB.JrqxFu4EUwN1NKln6O",
+  "gender": "male",
+  "generalDescription": "work hard..play hard",
+  "userInterest": "Technology"
+},{
+  "_id": {
+    "$oid": "621e4cd1f9e1b874b36899bf"
+  },
+  "userName": "manthanJ",
+  "email": "manthan@xyz.com",
+  "password": "$2a$10$Q2QFU2pPraU6LwajU.mnoe7I4Rr8luLq2r9AqnnXhD5XPP7l.Yzbu",
+  "gender": "male",
+  "generalDescription": "True gamer..",
+  "userInterest": "Gaming"
+},{
+  "_id": {
+    "$oid": "621e4d03f9e1b874b36899c2"
+  },
+  "userName": "rupalU",
+  "email": "rupal@xyz.com",
+  "password": "$2a$10$q6clOyQ8eHSjz6ikrM95RexVyPHQeX8fL3FGLSFOfjmPfmYgae2gi",
+  "gender": "female",
+  "generalDescription": "Art lover...",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621e4d69f9e1b874b36899c5"
+  },
+  "userName": "gunjanI",
+  "email": "gunjan@xyz.com",
+  "password": "$2a$10$OcxrZKTvmOvwjAptR62xH.8x7zOV.tuyiPn49p14lGQtlCBkLbDTK",
+  "gender": "female",
+  "generalDescription": "Travel is life",
+  "userInterest": "Travel"
+},{
+  "_id": {
+    "$oid": "621e4da3f9e1b874b36899c8"
+  },
+  "userName": "dummy",
+  "email": "dummy@xyz.com",
+  "password": "$2a$10$cjIrXesSNdfFpvFz6hjG5eXfCsl2MbP/kU1WjD9mJMfTorTTu88Bi",
+  "gender": "male",
+  "generalDescription": "dummmy",
+  "userInterest": "News"
+},{
+  "_id": {
+    "$oid": "621e4dc1f9e1b874b36899cb"
+  },
+  "userName": "dummy1",
+  "email": "dummy1@xyz.com",
+  "password": "$2a$10$cBE1r5RLJazrPCU0IGyIieJuWRMOPfGNQWS22lHpKaQl.3Djl909q",
+  "gender": "female",
+  "generalDescription": "dummy",
+  "userInterest": "Movies"
+},{
+  "_id": {
+    "$oid": "621e4de4f9e1b874b36899ce"
+  },
+  "userName": "dummy2",
+  "email": "dummy2@xyz.com",
+  "password": "$2a$10$iUKBM9OPv3U6w8uU4wVqyON0X24WSHbA4aaI6mpDuB.X0PH2tFkVS",
+  "gender": "male",
+  "generalDescription": "dummmyy",
+  "userInterest": "Entertainment"
+},{
+  "_id": {
+    "$oid": "621e4e08f9e1b874b36899d1"
+  },
+  "userName": "dummy3",
+  "email": "dummy3@xyz.com",
+  "password": "$2a$10$OkSk8T545Jgv7kOg2dUUBeKxVwx3kBECl79qvFzWGbUdw.WnQDn3e",
+  "gender": "female",
+  "generalDescription": "dummy",
+  "userInterest": "Technology"
+},{
+  "_id": {
+    "$oid": "621e4e2bf9e1b874b36899d4"
+  },
+  "userName": "dummmy4",
+  "email": "dummy4@xyz.com",
+  "password": "$2a$10$t/VJEJl6V//ARGzeE2TbYOrcifvlvxRiehQbGZV43djmAKwbil/Yy",
+  "gender": "male",
+  "generalDescription": "dummy",
+  "userInterest": "Food"
+},{
+  "_id": {
+    "$oid": "621e4e7af9e1b874b36899da"
+  },
+  "userName": "dummy4",
+  "email": "dummy45@xyz.com",
+  "password": "$2a$10$IUYeO/0RWOnc05t9guEm2.1OP5wGSMO0yDOqcc30mnHui24J6znHK",
+  "gender": "female",
+  "generalDescription": "dummy",
+  "userInterest": "Travel"
+},{
+  "_id": {
+    "$oid": "621e4ecdf9e1b874b36899dd"
+  },
+  "userName": "dummy5",
+  "email": "dummy5@xyz.com",
+  "password": "$2a$10$OKCKeKTIDY2xFizLhPS6ferJdAbJPuJ3IY18adOAwxaIPb8o4A9E.",
+  "gender": "male",
+  "generalDescription": "dummy",
+  "userInterest": "Gaming"
+},{
+  "_id": {
+    "$oid": "621e4efcf9e1b874b36899e0"
+  },
+  "userName": "dummy9",
+  "email": "dummy9@xyz.com",
+  "password": "$2a$10$9/XmB1CL8VG4os1j936DdOdxQzkTdiA/2eS8eVSR0UCT9jIbWJjxm",
+  "gender": "male",
+  "generalDescription": "dummmy",
+  "userInterest": "Books"
+},{
+  "_id": {
+    "$oid": "621e501af9e1b874b3689a35"
+  },
+  "userName": "yashbobdey",
+  "email": "yash@xyz.com",
+  "password": "$2a$10$hugXZveBsoX0ZnLz9..phOFj2FvKnH2wz8f35vsBPzkqOxFCcnGa6",
+  "gender": "male",
+  "generalDescription": "developer...",
+  "userInterest": "Technology"
+},{
+  "_id": {
+    "$oid": "621e6b5ea2c4b8301d143cb1"
+  },
+  "userName": "dummy10",
+  "email": "dummy10@xyz.com",
+  "password": "$2a$10$Tte7R.9QR1iTbZuBSs6/iOnu..ijwgrHX7brprlw0WlRPGhgTGNoa",
+  "gender": "male",
+  "generalDescription": "dummy",
+  "userInterest": "Books"
+}]
