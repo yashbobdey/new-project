@@ -37,4 +37,4 @@ export const EMPTY_ERRORS = "EMPTY_ERRORS";
 //-------------------------- URL ------------------------------
 //______________________________________________________________
 
-export const API_USERS_URL = "http://localhost:3000/users";
+export const API_USERS_URL = "http://localhost:8080/users";
